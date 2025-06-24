@@ -1,0 +1,62 @@
+#main {
+    margin-left: 120px
+}
+
+.w3-row-padding img {
+    margin-bottom: 12px
+}
+
+.w3-sidebar {
+    width: 120px;
+    background: #222;
+}
+
+
+body, h1,h2,h3,h4,h5,h6 {
+    font-family: "Montserrat", sans-serif
+}
+
+          
+    
+@media only screen and (max-width: 600px) {
+
+    #main {
+        margin-left: 0
+    }
+    
+}
+
+
+.slides {
+    
+    text-align:left;
+    display:table-cell;
+    float:left;
+}
+   
+   
+
+.text {
+    display:table-cell;
+    float:right;
+    width: 300px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+    margin-right: 300px;
+}
+
+
+
+
+
+
+
+   
+   
+
+
+
+
+
+
+
